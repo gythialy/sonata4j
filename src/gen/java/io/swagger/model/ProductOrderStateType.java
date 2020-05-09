@@ -1,0 +1,18 @@
+package io.swagger.model;
+
+public enum ProductOrderStateType {
+    ACKNOWLEDGED,
+    REJECTED,
+    INPROGRESS,
+    PENDING,
+    HELD,
+    ASSESSINGCANCELLATION,
+    PENDINGCANCELLATION,
+    CANCELLED,
+    INPROGRESS_CONFIGURED,
+    INPROGRESS_CONFIRMED,
+    INPROGRESS_JEOPARDY,
+    FAILED,
+    PARTIAL,
+    COMPLETED;
+}

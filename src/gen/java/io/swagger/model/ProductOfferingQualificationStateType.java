@@ -1,0 +1,8 @@
+package io.swagger.model;
+
+public enum ProductOfferingQualificationStateType {
+    DONE,
+    TERMINATEDWITHERROR_UNABLETOPROVIDE,
+    TERMINATEDWITHERROR_INSUFFICIENTINFORMATIONPROVIDED,
+    INPROGRESS;
+}
