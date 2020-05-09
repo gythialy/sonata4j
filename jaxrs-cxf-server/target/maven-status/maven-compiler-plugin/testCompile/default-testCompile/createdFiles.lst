@@ -1,0 +1,10 @@
+io/swagger/api/ProductOrderApiTest.class
+io/swagger/api/GeographicAddressApiTest.class
+io/swagger/api/QuoteApiTest.class
+io/swagger/api/ProductOfferingQualificationApiTest.class
+io/swagger/api/NotificationApiTest.class
+io/swagger/api/HubApiTest.class
+io/swagger/api/ProductApiTest.class
+io/swagger/api/GeographicAddressValidationApiTest.class
+io/swagger/api/GeographicSiteApiTest.class
+io/swagger/api/CancelProductOrderApiTest.class
